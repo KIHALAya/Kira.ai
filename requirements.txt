@@ -1,0 +1,16 @@
+pydantic
+PyPDF2
+docx
+pathlib
+requests
+pillow
+pytesseract
+langchain
+langchain-google-vertexai 
+langchain-google-genai
+faiss-cpu
+streamlit
+fastapi
+langchain_community
+langchain_core
+python-multipart
